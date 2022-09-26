@@ -6,3 +6,6 @@
 
 		
 		<h3> Time to get the job and be a DEVOPS ENGINERR! />
+
+
+		<h2>	DONE with dvops project by ansible deployment  </h2>
